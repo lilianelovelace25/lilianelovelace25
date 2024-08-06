@@ -1,4 +1,8 @@
-## Hi there 👋
+Olá, sou a Liliane, estou aprendendo algumas coisas de programação. 💝
+
+- Estou realizando cursos no [ALURA](https://www.alurastart.com.br)
+
+![](https://media.tenor.com/XN3y0aqPVJAAAAAM/mario-super-mario-rpg.gif)
 
 <!--
 **lilianelovelace25/lilianelovelace25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
