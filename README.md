@@ -1,4 +1,4 @@
-Olá, sou a Liliane, estou aprendendo algumas coisas de programação. 💝
+Olá, sou a Liliane, estou aprendendo algumas coisas de programação.. 💝
 
 - Estou realizando cursos no [ALURA](https://www.alurastart.com.br)
 
